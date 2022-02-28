@@ -1,2 +1,2 @@
-# Bidnamics
+# BIDNAMICS
 Bidnamics
